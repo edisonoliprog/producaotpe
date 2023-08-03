@@ -1,0 +1,22 @@
+{
+    "env": {
+      "ADRESSDATABASE": "cluster0.3ksqdze.mongodb.net",
+      "USERDATABASE": "tpemangalot",
+      "PASSDATABASE": "svrYAofZYeDmmEYB",
+      "NAMEDATABASE": "tpemangalot",
+      "GROUPTELEGRAM": -910549230,
+      "MASTERTELEGRAM": 6669035312,
+      "SUPORTEMAIL": "sandbox43dba8b6e4d84bd8b42315f1af17f903.mailgun.org",
+      "PASSEMAIL": "ad44bac6b27212fc8613af6b6fac787e-73f745ed-9392c4f9",
+      "TOKENTELEGRAM": "6561841401:AAFrV47NF4_r62-Q2cc9A_w6If0BJdvouRI",
+      "LINKGRUPOTELEGRAM": "https://t.me/+G3UT3l0U1tM4NzJh",
+      "NAMEBOTTELEGRAM": "Mangalot_Bot",
+      "JWTSECRET": "mangalot123",
+      "CIDADE": "São Paulo",
+      "SITE": "http://localhost:8080",
+      "RESETEMAIL1": 6669035312,
+      "RESETEMAIL2": 6669035312,
+      "RESETEMAIL3": 6669035312,
+      "RESETEMAIL4": 6669035312
+    }
+  }
