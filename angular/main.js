@@ -11494,6 +11494,7 @@ var __importDefault = (undefined && undefined.__importDefault) || function (mod)
 };
 var environment = {
     production: false,
+    //apiUrl: 'http://localhost:3000/'
     apiUrl: 'https://tpe-mangalot-c70f17223603.herokuapp.com/'
 };
 
