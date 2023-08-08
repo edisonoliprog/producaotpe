@@ -1,2 +1,7 @@
-/node_modules
 nodemon.jsonclear
+/dist
+/tmp
+/out-tsc
+#user
+nodemon.json
+/src/environments/*
